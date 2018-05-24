@@ -8,6 +8,7 @@
 ?>
 
 <body>
+<p>Salut</p>
     <?php
         include_once 'header.php';
        
