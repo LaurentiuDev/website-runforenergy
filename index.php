@@ -8,7 +8,7 @@
 ?>
 
 <body>
-<p>Salutdfd</p>
+
     <?php
         include_once 'header.php';
        
